@@ -55,3 +55,6 @@ dkms.conf
 Debug/
 .metadata/
 .directory
+Release/
+*.launch
+*.zip
